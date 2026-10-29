@@ -1,0 +1,38 @@
+[
+    {
+        "complaint_id": "CP101",
+        "student_name": "Akshith Kumar",
+        "hostel": "KH",
+        "room_number": "15",
+        "category": "Maintenance",
+        "description": "The window in my room has a broken latch and does not close properly, causing cold drafts at night. Immediate repair is requested.",
+        "status": "Resolved"
+    },
+    {
+        "complaint_id": "CP102",
+        "student_name": "Arjun Mehta",
+        "hostel": "GH",
+        "room_number": "22",
+        "category": "Wi-Fi",
+        "description": "The Wi-Fi connection in Block G has been extremely slow and frequently disconnecting since the past week. Unable to attend online classes or submit assignments.",
+        "status": "Resolved"
+    },
+    {
+        "complaint_id": "CP103",
+        "student_name": "Prateek Sharma",
+        "hostel": "KH",
+        "room_number": "34",
+        "category": "Maintenance",
+        "description": "The door lock of my room is broken and cannot be locked from inside. This is a serious security concern and needs urgent attention.",
+        "status": "Pending"
+    },
+    {
+        "complaint_id": "CP104",
+        "student_name": "Ankit Verma",
+        "hostel": "Chittar",
+        "room_number": "12",
+        "category": "Other",
+        "description": "The mess is serving food at irregular timings and the quality of meals has deteriorated significantly. Students are being left without proper meals on multiple occasions.",
+        "status": "Resolved"
+    }
+]
